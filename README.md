@@ -1,6 +1,6 @@
 # Projet-MIAM
 
-Gestionnaire de plats : 
+
 
 Ce projet permet à l'utilisateur de rechercher et de sélectionner des plats à partir d'un fichier JSON. Les plats sélectionnés sont ajoutés à un conteneur avec un bouton pour les supprimer. Le projet utilise une fonction de saisie semi-automatique pour suggérer des plats en fonction du texte saisi par l'utilisateur.
 
